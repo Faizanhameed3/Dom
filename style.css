@@ -1,0 +1,22 @@
+.centre{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   
+}
+#image{
+    width: 1050px;
+    height: 790px;
+}
+button{
+    width: 95px;
+    height: 30px;
+    border-radius: 35px;
+    border: none;
+    background-color: turquoise;
+    color:red;
+    position:absolute;
+   
+    
+    
+}
